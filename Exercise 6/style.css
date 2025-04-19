@@ -38,7 +38,7 @@ button {
 }
 
 button:hover {
-    background-color: blue;
+    background-color: rgb(219, 118, 158);
 }
 
 #totalcost {
