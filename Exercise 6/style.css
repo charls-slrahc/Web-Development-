@@ -12,7 +12,7 @@ h1 {
 }
 
 .petrolcalc {
-    background-color: #fff;
+    background-color: #0f36e3;
     font-size: auto;
     max-width: 430px;
     margin: auto;
@@ -21,7 +21,7 @@ h1 {
 }
 
 input:focus {
-    border-color: blueviolet;
+    border-color: rgb(219, 15, 19);
     outline: none;
 }
 
@@ -29,7 +29,7 @@ button {
     width: 100%;
     margin-top: 21px;
     padding: 13px;
-    background-color: rgba(40, 67, 171, 0.755);
+    background-color: rgb(216, 21, 89);
     color: #fff;
     border: none;
     border-radius: 5px;
