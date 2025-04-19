@@ -12,7 +12,7 @@ function calculateTotal() {
 
   const total = cost_per_litre * litres;
 
-
+  // This element is used to display the result with 2 decimal places
   totalDisplay.textContent = `Total cost: £${total.toFixed(2)}`;
 }
 
